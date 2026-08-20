@@ -48,13 +48,13 @@ When I'm not tracing assembly or writing code, I'm usually gaming or listening t
 
 ---
 
-### 🛠️ Tools & Reversing Stack
-
+### 🛠️ Tools 
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" /></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" /></a>
   <a href="https://www.kernel.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" /></a>
   <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://skillicons.dev/icons?i=windows" alt="Windows" /></a>
+  <a href="https://www.sublimetext.com/" target="_blank"><img src="https://skillicons.dev/icons?i=sublimetext" alt="Windows" /></a>
 </p>
 
 ---
