@@ -61,6 +61,6 @@ When I'm not tracing assembly or writing code, I'm usually gaming or listening t
 <div align="center">
 
 ###  Profile Views
-<img src="https://count.getloli.com/get/@baoixud?theme=moebooru" alt="moe counter" />
+<img src="https://count.getloli.com/get/@baoixud?theme=booru-touhoulat" alt="moe counter" />
 
 </div>
