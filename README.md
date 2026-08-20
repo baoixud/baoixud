@@ -43,6 +43,7 @@ When I'm not tracing assembly or writing code, I'm usually gaming or listening t
   <a href="https://www.php.net/" target="_blank"><img src="https://skillicons.dev/icons?i=php" alt="PHP" /></a>
   <a href="https://www.lua.org/" target="_blank"><img src="https://skillicons.dev/icons?i=lua" alt="Lua" /></a>
   <a href="https://kotlinlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" /></a>
 </p>
 
 ---
